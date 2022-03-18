@@ -4,3 +4,4 @@
 * Why is it necessary?
 * Where it is used?
 * History of it.
+* Started [BlockChain Developer Course](https://lms.simplilearn.com/courses/3111/Blockchain-Certification-Training/syllabus) Course on Simplillearn(SkillUP).
