@@ -1,9 +1,17 @@
 # BlockChain-Course
 ## DAY 0 [18/03/2022] Overview of blockchain
-* What is blockchain?
-* It brings trust between peer to peer network solutions. Blockchain can operate in a peer to peer fashion with zero intervention from third parties. Bitcoin is one application that runs on blockchain Blockchain chain of blocks Block-digital information (Stored in public database) Chain- public database Bittorrent averages this technology to share media files across the internet.
-* Why is it necessary?
-* Where it is used?
-* History of it.
 * Started [BlockChain Developer Course](https://lms.simplilearn.com/courses/3111/Blockchain-Certification-Training/syllabus) Course on Simplillearn(SkillUP).
+* What is blockchain?
+* ![1](https://user-images.githubusercontent.com/79328907/159132145-5d5461dd-0cd4-4299-ac79-b71fc7f416dd.png)
+![2](https://user-images.githubusercontent.com/79328907/159132156-63329cf6-4742-4a0e-b9e5-4969dcf16b73.png)
+
+* It brings trust between peer to peer network solutions. Blockchain chain of blocks Block-digital information (Stored in public database) Chain- public database Bittorrent averages this technology to share media files across the internet.
+* Why is it necessary?
+* Blockchain can operate in a peer to peer fashion with zero intervention from third parties.
+* Where it is used?
+* Bitcoin is one application that runs on blockchain.
+![3](https://user-images.githubusercontent.com/79328907/159132180-d5a55b9d-a0cc-4c80-baa9-bec6dfe49248.png)
+
+* History of it.
+* ![4](https://user-images.githubusercontent.com/79328907/159132190-32f83bf1-98d2-4f65-afc8-808d55c23290.png)
 ## DAY 1 [19/03/2022] 
