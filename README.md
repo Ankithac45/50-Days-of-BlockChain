@@ -25,5 +25,16 @@
 ### In Banking system, every bank maintains its own ledger. Thus the bank need to update them independently and reconcile them periodically. Since blockchain uses single ledger, no separate messaging protocol is required.
 ![8](https://user-images.githubusercontent.com/79328907/159133444-eba08a87-2c3a-4687-8041-f6dc2796711e.png)
 
+## DAY 2 [20/03/2022] Blockchain Trnasaction Process
+![10](https://user-images.githubusercontent.com/79328907/159175927-964d88b6-b815-4baa-a04b-1f905964fd68.png)
+* It begins with the initiation of new transaction request which can arise from any node in the network.  
+* This transaction request is then broadcasted throughout the network and it gets picked up by various minors who are part of that network. 
+* Each Minor picks up the transaction and runs some computation in order to validate the transaction. 
+* Once validated, this transaction gets added to the block and new block is created which in turn is added to the blockchain. 
+* This is how a new transaction is completed
+* 
+![11](https://user-images.githubusercontent.com/79328907/159175933-7f27fb93-a627-4269-8cea-e638d9b12fde.png)
+
+
 
 
