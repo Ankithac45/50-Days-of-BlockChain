@@ -35,6 +35,12 @@
  
 ![11](https://user-images.githubusercontent.com/79328907/159175933-7f27fb93-a627-4269-8cea-e638d9b12fde.png)
 
+## DAY 3 [21/03/2022] Transaction Initiation
+* ![13](https://user-images.githubusercontent.com/79328907/159333347-83a31a98-3627-4979-a69b-d965dff4142d.png)
+![14](https://user-images.githubusercontent.com/79328907/159333360-4c098c9e-61d4-4a02-99d2-97cbc59990c9.png)
+![15](https://user-images.githubusercontent.com/79328907/159333376-e74940d6-19a0-4d86-961d-36cea0c2902e.png)
+![16](https://user-images.githubusercontent.com/79328907/159333394-5239cc2b-088c-4a7f-ad6e-bd107e0dcea9.png)
+![17](https://user-images.githubusercontent.com/79328907/159333414-d8a43101-d1e4-4e8a-aa12-b6ce74ad5203.png)
 
 
 
